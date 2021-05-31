@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.button-style {
+  width: 250px;
+  height: 60px;
+  border-radius: 20px;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: black;
+  background: #61dafb;
+  padding: 0;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
